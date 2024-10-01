@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|c:\\users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\baitap6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|solutionrelative:buoi8prn\\baitap6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|c:\\users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\baitap5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|solutionrelative:buoi8prn\\baitap5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|c:\\users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\baitap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|solutionrelative:buoi8prn\\baitap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|c:\\users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\baitap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|solutionrelative:buoi8prn\\baitap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|c:\\users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\baitap2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|solutionrelative:buoi8prn\\baitap2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|c:\\users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\baitap1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|solutionrelative:buoi8prn\\baitap1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|c:\\users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B256F95-5E7E-456B-B1AD-824FC9486469}|buoi8prn\\buoi8prn.csproj|solutionrelative:buoi8prn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Baitap6.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap6.cs",
+              "RelativeDocumentMoniker": "buoi8prn\\Baitap6.cs",
+              "ToolTip": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap6.cs",
+              "RelativeToolTip": "buoi8prn\\Baitap6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:46:17.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Baitap5.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap5.cs",
+              "RelativeDocumentMoniker": "buoi8prn\\Baitap5.cs",
+              "ToolTip": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap5.cs",
+              "RelativeToolTip": "buoi8prn\\Baitap5.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:38:29.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Baitap4.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap4.cs",
+              "RelativeDocumentMoniker": "buoi8prn\\Baitap4.cs",
+              "ToolTip": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap4.cs",
+              "RelativeToolTip": "buoi8prn\\Baitap4.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:37:37.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Baitap3.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap3.cs",
+              "RelativeDocumentMoniker": "buoi8prn\\Baitap3.cs",
+              "ToolTip": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap3.cs",
+              "RelativeToolTip": "buoi8prn\\Baitap3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:33:50.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Baitap2.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap2.cs",
+              "RelativeDocumentMoniker": "buoi8prn\\Baitap2.cs",
+              "ToolTip": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap2.cs",
+              "RelativeToolTip": "buoi8prn\\Baitap2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:29:47.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Baitap1.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap1.cs",
+              "RelativeDocumentMoniker": "buoi8prn\\Baitap1.cs",
+              "ToolTip": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Baitap1.cs",
+              "RelativeToolTip": "buoi8prn\\Baitap1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:25:16.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Program.cs",
+              "RelativeDocumentMoniker": "buoi8prn\\Program.cs",
+              "ToolTip": "C:\\Users\\hahuy\\source\\repos\\buoi8prn\\buoi8prn\\Program.cs",
+              "RelativeToolTip": "buoi8prn\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:49:50.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

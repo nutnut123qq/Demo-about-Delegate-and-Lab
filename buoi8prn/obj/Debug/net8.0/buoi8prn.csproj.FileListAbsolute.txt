@@ -1,0 +1,14 @@
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\bin\Debug\net8.0\buoi8prn.exe
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\bin\Debug\net8.0\buoi8prn.deps.json
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\bin\Debug\net8.0\buoi8prn.runtimeconfig.json
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\bin\Debug\net8.0\buoi8prn.dll
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\bin\Debug\net8.0\buoi8prn.pdb
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\obj\Debug\net8.0\buoi8prn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\obj\Debug\net8.0\buoi8prn.AssemblyInfoInputs.cache
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\obj\Debug\net8.0\buoi8prn.AssemblyInfo.cs
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\obj\Debug\net8.0\buoi8prn.csproj.CoreCompileInputs.cache
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\obj\Debug\net8.0\buoi8prn.dll
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\obj\Debug\net8.0\refint\buoi8prn.dll
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\obj\Debug\net8.0\buoi8prn.pdb
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\obj\Debug\net8.0\buoi8prn.genruntimeconfig.cache
+C:\Users\hahuy\source\repos\buoi8prn\buoi8prn\obj\Debug\net8.0\ref\buoi8prn.dll
